@@ -1,0 +1,1 @@
+{"virtualbox":{"vagrant-root":{"id":"vagrant-root","guestpath":"/var/www/html","hostpath":"C:/Users/pwelch/Documents/GitHub_PaysonWelch/AngularTest1/webapp","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/pwelch/Documents/GitHub_PaysonWelch/AngularTest1","disabled":false}}}
